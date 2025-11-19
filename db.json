@@ -1,1 +1,52 @@
-{}
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Pride Series 450W",
+      "type": "Mono PERC",
+      "capacity": "450W",
+      "description": "High efficiency module suitable for residential and commercial use.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlIhYZGDx5upaoA8Uj4DoxybAzry4zGzmnBtHd8VrStKtowt0avdaUZaV2Vj042SVPT8M&usqp=CAU"
+    },
+    {
+      "id": "2",
+      "name": "Shine Series 500W",
+      "type": "TOPCon",
+      "capacity": "500W",
+      "description": "Next-gen TOPCon modules with superior low-light performance.",
+      "image": "https://m.media-amazon.com/images/I/41U7hE9RsuL.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Master 500W",
+      "type": "TOPCon",
+      "capacity": "600W",
+      "description": "High efficiency Sustainable and raniny high  performance",
+      "image": "https://dn5z2jafg7hv0.cloudfront.net/blog/wp-content/uploads/2022/06/14160303/polycrystalline-solar-panels.png"
+    },
+    {
+      "id": "4",
+      "name": "Radow 500W",
+      "type": "Mono PERC",
+      "capacity": "500W",
+      "description": "High durable and longlastinf effecent performance",
+      "image": "https://storage.googleapis.com/solarplace-products/WHITE-255-b1cb3076-ee6e-4c9f-baf2-a7f7989ad5d0.jpg.jpeg"
+    },
+    {
+      "id": "5",
+      "name": "SW301 500W",
+      "type": "Mono PERC",
+      "capacity": "600W",
+      "description": "High durable and longlastinf effecent performance",
+      "image": "https://media.istockphoto.com/id/186340510/vector/solar-panel.jpg?s=612x612&w=0&k=20&c=7u3AyhyoBgqU9Yz7KNlx-FI94K8NHAYOwUeq4R2ZaDg="
+    },
+    {
+      "id": "6",
+      "name": "BlackX 700",
+      "type": "Mono PERC",
+      "capacity": "700W",
+      "description": "High durable and longlastinf effecent performance",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZYEeydnX8_e8tLF4fXBDNpL3VlrwXZ1pASA&s"
+    }
+  ]
+}
